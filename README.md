@@ -1,2 +1,2 @@
-My Second Git
+ Second Git
 
